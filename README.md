@@ -3,7 +3,7 @@ fancy coloring application for kids
 
 1- applied advanced OOP using C++ language to create an interactive application for kids.
 
-2- implemented an interactive GUI interface framework to make it fun and easy to use for kids.
+2- implemented an interactive GUI interface framework using  CMU Graphics Lab library to make it fun and easy to use for kids.
 
 3- The application has 2 main modes: Draw mode and play mode.
 
